@@ -1,10 +1,10 @@
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://electrik-frog.com" # the base hostname & protocol for your site
-cover: /assets/images/covers/cover.jpg
+url: # the base hostname & protocol for your site
+cover: 
 
 title: Cyber
-description: My journey .
+description: 
 
 # Build settings
 markdown: kramdown
@@ -15,18 +15,17 @@ exclude: ["README.md", "LICENSE"]
 
 # User's info
 fullname: sdfsfsdfsdfsdfdsfsdfsdfsdfsdfsdfsdfds
-email: mailto:maddane.info@gmail.com
-twitter: https://twitter.com/electrik_frog
-github: https://github.com/kronik3r
-youtube: https://www.youtube.com/channel/UC0vUE2Im9VBRupZ_huV-9kg
-google: https://plus.google.com/+MotaquillahMaddane
-facebook: https://www.facebook.com/electrik.frog
+email: 
+twitter: 
+github: 
+youtube: 
+google: 
+facebook: 
 
 # Articles categories
 sets:
-    - title: This Developer Life
-      description: My journey towards becoming a better developer and also trying to unlock the secrets of the universe.
-      id: this-life
+    - title: 
+      description:
 
 # SEO
 keywords:
