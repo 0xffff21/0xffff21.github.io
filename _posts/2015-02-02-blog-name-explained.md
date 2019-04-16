@@ -14,7 +14,7 @@ As a Science fiction enthusiast, one day I was chatting with a friend of mine ab
 One year passed, during which I was thinking about starting blogging, but never been serious about it, until the day I read this [amazing blog post](http://www.hanselman.com/blog/YourBlogIsTheEngineOfCommunity.aspx) by [Scott Hanselman](http://www.hanselman.com/blog/).
 
 Now I'm into it, but first let's find a name (because I didn't want to give it mine), hm well! you know what happens when you start thinking of a name ...
-
+![alt text](https://images.pexels.com/photos/1226302/pexels-photo-1226302.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 #### It's the blackout
 
 So I skipped it and started thinking about how I learned what I know today, that it was in a big part because of those thousands open source libraries, those threads on those forums, those blog posts, that someone, somewhere in this vast big blue planet created. At that exact moment the word `Hitchhiker` popped up in my head as a logical result of my thinking and I said to myself, hell yeah!
