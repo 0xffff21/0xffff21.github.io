@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 cover: /assets/images/covers/cover.jpg
 
 title: Cyber
-description: My journey towards becoming a better developer.
+description: My journey .
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,7 @@ highlighter: null
 exclude: ["README.md", "LICENSE"]
 
 # User's info
-fullname: Motaquillah Maddane
+fullname: sdfsfsdfsdfsdfdsfsdfsdfsdfsdfsdfsdfds
 email: mailto:maddane.info@gmail.com
 twitter: https://twitter.com/electrik_frog
 github: https://github.com/kronik3r
